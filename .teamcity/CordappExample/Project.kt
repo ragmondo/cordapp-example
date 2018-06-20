@@ -12,7 +12,7 @@ object Project : Project({
     uuid = "98966948-12f1-4f59-a386-51f83a1795c9"
     id = "CordappExample"
     parentId = "_Root"
-    name = "Cordapp Example"
+    name = "Cordapp Example - working from TC"
 
     vcsRoot(CordappExample_HttpsGithubComRagmondoCordappExampleGitRefsHeadsReleaseV3)
 
